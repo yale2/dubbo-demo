@@ -1,0 +1,3 @@
+providerFilter=com.yale.dubbo.transport.filter.ProviderFilter
+consumerFilter=com.yale.dubbo.transport.filter.ConsumerFilter
+timeFilter=com.yale.dubbo.transport.filter.TPMonitorFilter
